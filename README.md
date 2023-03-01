@@ -1,3 +1,3 @@
 # Python robot
 
-A simple web scraper robot implemented in Python instead of Robot Framework syntax, using the `rpaframework` set of libraries.
+A simple web scraper robot. Using the RPA framework set of libraries. Originaly made as a result of completing the Robocorp Level I Automation Developer training.
